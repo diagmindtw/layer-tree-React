@@ -1,0 +1,112 @@
+.google-pixel21-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.google-pixel21-thq-google-pixel21-elm {
+  gap: 10px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(36, 67, 62, 1);
+}
+ 
+.google-pixel21-thq-frame1-elm {
+  gap: 10px;
+  display: flex;
+  padding: 8px 16px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 16px;
+  background-color: rgba(168, 203, 205, 1);
+}
+ 
+.google-pixel21-thq-frame3-elm {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.google-pixel21-thq-frame5-elm {
+  width: 79px;
+  display: flex;
+  padding: 1px 0;
+  box-shadow: -1px 0px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 18px;
+  justify-content: center;
+  background-color: rgba(195, 216, 37, 1);
+}
+ 
+.google-pixel21-thq-text-elm1 {
+  color: rgba(0, 0, 0, 1);
+  width: 56px;
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.google-pixel21-thq-frame4-elm {
+  width: 79px;
+  display: flex;
+  padding: 1px 0;
+  box-shadow: -1px 0px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 18px;
+  justify-content: center;
+  background-color: rgba(255, 241, 207, 1);
+}
+ 
+.google-pixel21-thq-text-elm2 {
+  color: rgba(0, 0, 0, 1);
+  width: 56px;
+  height: auto;
+  font-size: 14px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.google-pixel21-thq-frame2-elm {
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+}
+ 
+.google-pixel21-thq-text-elm3 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
